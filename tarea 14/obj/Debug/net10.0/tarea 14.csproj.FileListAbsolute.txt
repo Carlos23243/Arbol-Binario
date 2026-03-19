@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\bin\Debug\net10.0\tarea 14.exe
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\bin\Debug\net10.0\tarea 14.deps.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\bin\Debug\net10.0\tarea 14.runtimeconfig.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\bin\Debug\net10.0\tarea 14.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\bin\Debug\net10.0\tarea 14.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\tarea 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\tarea 14.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\tarea 14.AssemblyInfo.cs
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\tarea 14.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\tarea 14.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\refint\tarea 14.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\tarea 14.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\tarea 14.genruntimeconfig.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\tarea 14\obj\Debug\net10.0\ref\tarea 14.dll
